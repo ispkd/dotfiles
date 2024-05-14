@@ -1,2 +1,3 @@
 # Sparks customisations
- Simple Repo that includes tips and ideas of Linux customisations alongside of patches and useful resources
+[!NOTE]  
+Highlights information that users should take into account, even when skimming.
